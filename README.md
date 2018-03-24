@@ -1,3 +1,3 @@
-## My Stack Problems
+## magnien.net
 
-This project forked and has been modified from [My Stack Problems](https://github.com/agusmakmun/agusmakmun.github.io).
+This Jekyll project forked from [My Stack Problems - Jekyll Theme](https://github.com/agusmakmun/agusmakmun.github.io) contains the sources of my technical blog.
