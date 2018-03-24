@@ -1,8 +1,8 @@
 title: Stack Problems
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
+author: magnien
+github: https://github.com/lmagnien
+about: I am software developer.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -19,17 +19,12 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://twitter.com/laurentmagnien"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/lmagnien"
 
 share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+  twitter_username: laurentmagnien
 
 urls:
     - text: About Me
@@ -39,7 +34,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://lmagnien.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
